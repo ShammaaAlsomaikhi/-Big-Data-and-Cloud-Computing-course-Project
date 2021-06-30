@@ -1,4 +1,4 @@
-# -Big-Data-and-Cloud-Computing-course-Project
+# Big Data and Cloud Computing course Project
 In this project our problem is “why Al-Rajhi bank customers leave and go to other banks?” so we looked for negative hashtags in twitter that people were talking about Al-Rajhi bank badly, to search about the reasons which made them leave. 
 # Library that we used:
 
